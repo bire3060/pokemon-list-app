@@ -1,33 +1,34 @@
-# Pokemon List App
+## Pokemon List App
 
-A React application to display a list of Pokemon and filter them by name.
+Welcome to the Pokemon List App – a React application designed to showcase a list of Pokemon and provide an intuitive filtering mechanism by name.
 
 ## Getting Started
 
-### Prerequisites
+Prerequisites
+Ensure that you have Node.js installed on your machine. If not, you can download it from https://nodejs.org/.
 
-- Node.js: Make sure Node.js is installed on your machine. You can download it from [https://nodejs.org/](https://nodejs.org/).
+## Installation
 
-### Installation
+Clone the Repository:
 
-1. Clone the repository:
+bash
 
-git clone https://github.com/your-username/pokemon-list-app.git
+git clone https://github.com/bire3060/pokemon-list-app.git
 
-2. Change into the project directory:
-   cd pokemon-list-app
-   cd client
+## Navigate to the Project Directory:
 
-3.Install dependencies:
-npm i
+cd pokemon-list-app/client
+
+## Install Dependencies:
+
+npm install
 
 ## Usage
 
-Enter a keyword in the search box to filter Pokemon by name.
-Explore the list of Pokemon with their images and names.
+Simply enter a keyword in the search box to efficiently filter Pokemon by name. Explore the comprehensive list of Pokemon, complete with captivating images and their respective names.
 
 ## Technologies Used
 
-React
-React Query
-Prop Types
+React: The heart of our application, providing a robust and efficient user interface.
+React Query: Empowering seamless data fetching, making your Pokemon browsing experience swift and responsive.
+Prop Types: Ensuring clear communication between components and enhancing code reliability.
